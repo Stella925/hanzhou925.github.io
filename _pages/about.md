@@ -1,7 +1,7 @@
 ---
 layout: home
 header: "/images/teaser.jpg"
-permalink: /
+permalink: /index.html
 title: "Welcome !"
 excerpt: "Home"
 author_profile: true
