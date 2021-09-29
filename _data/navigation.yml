@@ -9,11 +9,11 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "AI Projects"
-    url: /projects/
-        
   - title: "About Me"
     url: /aboutme/
+        
+  - title: "AI Projects"
+    url: /projects/
     
   - title: "CV"
     url: /cv/
