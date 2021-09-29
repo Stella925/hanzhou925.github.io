@@ -1,5 +1,5 @@
 ---
-layout: slash
+layout: splash
 header: "/images/teaser.jpg"
 permalink: /
 title: "Welcome !"
