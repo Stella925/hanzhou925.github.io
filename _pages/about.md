@@ -5,9 +5,9 @@ permalink: /
 title: "Welcome !"
 excerpt: "Home"
 author_profile: true
-redirect from: 
-              /about/
-              /index.html
+redirect_from: 
+  - /about/
+  - /index.html
 
 ---
 
