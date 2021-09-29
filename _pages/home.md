@@ -3,8 +3,6 @@ permalink: /home/
 title: 'Welcome !'
 excerpt: "Home"
 author_profile: true
-redirect_from:
- - /home/
 
 ---
 
