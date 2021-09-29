@@ -1,6 +1,7 @@
 ---
 layout: home
-header: "/images/teaser.jpg"
+header: 
+  teaser: /images/teaser.jpg
 permalink: /
 title: "Welcome !"
 excerpt: "Home"
