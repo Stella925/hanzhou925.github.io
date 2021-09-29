@@ -10,6 +10,7 @@ theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "mint"
 
 # Site Settings
+layout                   : splash
 locale                   : "en-GB"
 title                    : "Han Zhou / Home"
 title_separator          : "-"
@@ -93,7 +94,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "kerry0925@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  cel              : "(+86)15221567568"
   bitbucket        :
   codepen          :
   dribbble         :
