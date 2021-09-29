@@ -1,10 +1,13 @@
 ---
 layout: home
 header: "/images/teaser.jpg"
-permalink: /index.html
+permalink: /
 title: "Welcome !"
 excerpt: "Home"
 author_profile: true
+redirect from: 
+              /about/
+              /index.html
 
 ---
 
