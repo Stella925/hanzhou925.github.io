@@ -1,13 +1,15 @@
 ---
-layout: home
-header: 
-  teaser: /images/teaser.jpg
-permalink: /about/
-title: "Welcome !"
-excerpt: "Home"
+permalink: /
+title: 'Biography'
+excerpt: "About me"
 author_profile: true
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 
-Welcome !
+
+ I am Han Zhou from Shanghai Jiao Tong University.
+
+
