@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "AI Projects"
-permalink: /projects/
+permalink: /
 author_profile: true
 ---
 
