@@ -1,18 +1,36 @@
 ---
 layout: archive
-permalink: /
+permalink: /aboutme/
 title: "About Me"
 author_profile: true
 
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+Biography
+------
+I am Han Zhou from Shanghai Jiao Tong University.
+
+
+
+Research Interest
+------
+
+ Psycholinguistics, Neurolinguistics
+ Interface between Syntax and Semantics, Coherence, Coreference, Second Language Acquisition.
+
+
+
+Research Projects
+------
+
+ 1. **Independent Research**: (on-going) 
+    The Regulation of Relative Clause Types on Causality Expectation in Real-time Discourse Processing
+ 2. **National-level Undergraduate Innovation Program**: 
+    [The Impact of Quantificational Cues on L2 Subject-verb Agreement Processing: Evidence from P600](http://hanzhou925.github.io/files/项目研究论文.pdf)
+
+
+Other Writing Work
+------
+ [Review on Second Language Acquisition](http://hanzhou925.github.io/files/Review on Second Language Acquisition.pdf)
+
+
