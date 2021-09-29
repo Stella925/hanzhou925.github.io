@@ -13,7 +13,7 @@ entries_layout: grid
    ![Example](http://hanzhou925.github.io/images/MNIST.png)
 
 
-2. [26 kinds of garbage classification based on Mindspore](https://github.com/hanzhou925/Garbage-Classification)
+2. [26 kinds of garbage classification based on Mindspore](https://github.com/hanzhou925/Garbage-Classfication)
    ![Example](http://hanzhou925.github.io/images/Garbage Classification.png)
    
 3. [Feature Face Recognition (Eigenface) based on PCA](https://github.com/hanzhou925/Feature-Face-Recognition-PCA)
