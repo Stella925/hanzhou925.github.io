@@ -8,7 +8,7 @@ entries_layout: grid
 
 ---
 
-1. **[Handwriting digital identification based on Mindspore]**(https://github.com/hanzhou925/Le-Net-MNIST)
+1. [Handwriting digital identification based on Mindspore](https://github.com/hanzhou925/Le-Net-MNIST)
 ------
    ![Example](http://hanzhou925.github.io/images/MNIST.png)
 
