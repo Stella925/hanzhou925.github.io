@@ -1,10 +1,12 @@
 ---
 layout: archive
 permalink: /aboutme/
-title: ""
+title: "About Me"
 author_profile: true
 
 ---
+Hi! This is Stella :)
+
 
 Biography
 ------
